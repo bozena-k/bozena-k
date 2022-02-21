@@ -1,10 +1,13 @@
 <h1 align="center">Hi, I'm Bożena</h1>
 <h4 align="center">Hardworking and goal-oriented. I always try first to solve problems on my own. Enthusiastic with good teamwork skills. I constantly develop in new areas and expand the ones I already know. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies and researches.</h3>
-
-<h4 align="left">Find me here:</h4>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bo%c5%bcena-kud%c5%82aty-02b842151/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bo%c5%bcena-kud%c5%82aty-02b842151/" height="30" width="40" /></a>
-</p>
+<h2> Contact with me: </h2>
+<a target="_blank" href="https://www.linkedin.com/in/bo%C5%BCena-kud%C5%82aty-02b842151/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="mailto:bozena.kudlaty@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+</br>
 
 <h2> Tech skills: </h2>
 <ul>
@@ -26,6 +29,9 @@
   <li>guru99.com</li>
   <li>softwaretestinghelp.com</li>
   </ul>
+  
+  
+
 
   <h2> My Test Documentation:</h2>
   <ul>
