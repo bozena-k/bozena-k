@@ -1,9 +1,9 @@
 <h2 align="center">Hi, I'm Bożena</h2>
 <h4 align="center">Hardworking and goal-oriented. I always try first to solve problems on my own. Enthusiastic with good teamwork skills. I constantly develop in new areas and expand the ones I already know. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies and researches.</h3>
 <h3> Contact with me: </h3>
-<a target="_blank" href="https://www.linkedin.com/in/bo%C5%BCena-kud%C5%82aty-02b842151/">
+ <a target="_blank" href="https://www.linkedin.com/in/bo%C5%BCena-kud%C5%82aty-02b842151/">
 <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a target="_blank" href="mailto:bozena.kudlaty@gmail.com">
+ <a target="_blank" href="mailto:bozena.kudlaty@gmail.com">
 <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 </br>
