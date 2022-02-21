@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Bożena Kudłaty</h1>
+<h1 align="center">Hi, I'm Bożena</h1>
 <h4 align="center">Hardworking and goal-oriented. I always try first to solve problems on my own. Enthusiastic with good teamwork skills. I constantly develop in new areas and expand the ones I already know. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies and researches.</h3>
 
 <h4 align="left">Connect with me:</h4>
