@@ -32,11 +32,12 @@
 <ul>
   <li>Tester oprogramowania - K.Zmitrowicz </li>
   <li>Zawód tester - R.Smilgin</li>
-  <li>testerzy.pl</li>
-  <li>pwicherski.gitbook.io</li>
-  <li>guru99.com</li>
-  <li>softwaretestinghelp.com</li>
-  </ul>
+  <li>https://testerzy.pl/</li>
+  <li>https://www.udemy.com/</li>
+  <li>https://artoftesting.com/</>
+  <li>https://www.guru99.com/</li>
+  <li>https://www.softwaretestinghelp.com/</li>
+</ul>
   
   
 
