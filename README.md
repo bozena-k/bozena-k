@@ -52,5 +52,5 @@
   
  <li><a href="https://docs.google.com/spreadsheets/d/1vA4pL1cDkM0jtDd2zz6LZWnFi-3Y9rrV/edit?usp=sharing&ouid=111923887503638112741&rtpof=true&sd=true">Test case for site swiatksiazki.pl</a></li>
  
- <li><a href="https://docs.google.com/document/d/1fVscTSBrV-gaE3rB73fE0NTJ0teFJK7uGmRrx_cfMss/edit?usp=sharing">Quality reported for site epuap.pl </a></li>
+ <li><a href="https://drive.google.com/file/d/1HPF1pqlJMWAA-nBxEkz-LpVSLm59912i/view?usp=sharing">Quality reported for site epuap.pl </a></li>
  </ul>
