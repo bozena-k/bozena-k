@@ -44,16 +44,13 @@
 
   <h3> My Test Documentation:</h3>
   <ul>
-  <li><a href="https://drive.google.com/file/d/1rD2pa_Xdoq4z19TMhoZkLVAOqEFh0qds/view?usp=sharing"> basis for tests for site matizol.pl </a></li>
+  <li><a href="https://drive.google.com/file/d/1rD2pa_Xdoq4z19TMhoZkLVAOqEFh0qds/view?usp=sharing"> Basis for tests for site matizol.pl </a></li>
  
-   <ul>
   <li><a href="https://docs.google.com/spreadsheets/d/1_YD8rbzXHyOHiqOexAGD9z0KxuvR19oE/edit?usp=sharing&ouid=111923887503638112741&rtpof=true&sd=true"> Test scenarios for site matizol.pl </a></li>
-    
-    <ul>
+ 
   <li><a href="https://docs.google.com/spreadsheets/d/1KOeMcTc3h6aveluVPzKIqg4UTyUrfscQ/edit?usp=sharing&ouid=111923887503638112741&rtpof=true&sd=true"> Test conditions for site matizol.pl </a></li>
+  
+ <li><a href="https://docs.google.com/spreadsheets/d/1vA4pL1cDkM0jtDd2zz6LZWnFi-3Y9rrV/edit?usp=sharing&ouid=111923887503638112741&rtpof=true&sd=true">Test case for site swiatksiazki.pl</a></li>
  
- <ul>
-  <li><a href="https://docs.google.com/spreadsheets/d/1UsMcmgkAKiZmOf8e6sQnfeAPXNIngs35/edit?rtpof=true">Test case for site swiatksiazki.pl</a></li>
- 
-  <li><a href="https://docs.google.com/document/d/1fVscTSBrV-gaE3rB73fE0NTJ0teFJK7uGmRrx_cfMss/edit?usp=sharing">Quality reported for epuap.pl site</a></li>
+ <li><a href="https://docs.google.com/document/d/1fVscTSBrV-gaE3rB73fE0NTJ0teFJK7uGmRrx_cfMss/edit?usp=sharing">Quality reported for site epuap.pl </a></li>
  </ul>
