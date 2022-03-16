@@ -53,7 +53,7 @@
   <li><a href="https://docs.google.com/spreadsheets/d/1KOeMcTc3h6aveluVPzKIqg4UTyUrfscQ/edit?usp=sharing&ouid=111923887503638112741&rtpof=true&sd=true"> Test conditions for site   matizol.pl </a></li>
    
   <h3> Individual project - testing site ochnik.com:</h3>
-  <li><a href="https://docs.google.com/spreadsheets/d/1SabLbc5MOppN1nBCRxxdEcDAp8Dizpxy/edit?usp=sharing&ouid=111923887503638112741&rtpof=true&sd=true"> Test case for site for site ochnik.com </a></li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1SabLbc5MOppN1nBCRxxdEcDAp8Dizpxy/edit?usp=sharing&ouid=111923887503638112741&rtpof=true&sd=true"> Test case for site  ochnik.com </a></li>
  
    <h3> Other projects:</h3>
    <li><a href="https://docs.google.com/spreadsheets/d/1vA4pL1cDkM0jtDd2zz6LZWnFi-3Y9rrV/edit?usp=sharing&ouid=111923887503638112741&rtpof=true&sd=true">Test case for site        swiatksiazki.pl</a></li>
